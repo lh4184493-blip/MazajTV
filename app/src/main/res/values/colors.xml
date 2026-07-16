@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core palette -->
+    <color name="background">#050505</color>
+    <color name="card_background">#121212</color>
+    <color name="gold">#FFD700</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="live_red">#FF0000</color>
+
+    <!-- Derived shades -->
+    <color name="card_background_light">#1C1C1C</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="divider">#242424</color>
+    <color name="transparent">#00000000</color>
+    <color name="overlay_dark">#CC000000</color>
